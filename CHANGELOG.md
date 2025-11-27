@@ -6,9 +6,13 @@ All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 <a name="unreleased"></a>
 
-## [Unreleased](https://github.com/guanguans/notify/compare/v3.5.4-RC1...HEAD)
+## [Unreleased](https://github.com/guanguans/notify/compare/v3.5.4+rc1...HEAD)
 
 <a name="3.2.2"></a>
+
+## [v3.5.4+rc1](https://github.com/guanguans/notify/compare/v3.5.4-RC1...v3.5.4+rc1) - 2025-11-27
+
+**Full Changelog**: https://github.com/ricardoapaes/notify/compare/v3.3.0+rc1...v3.5.4+rc1
 
 ## [v3.5.4-RC1](https://github.com/guanguans/notify/compare/3.2.2...v3.5.4-RC1) - 2025-11-27
 
